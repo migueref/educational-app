@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\apps\moodlemobile2\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\apps\moodlemobile2\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_9836b4e9ee67897581aea346fc3b517563c77d0d.jar" />
+    </item>
+    <item
+        jar="C:\apps\moodlemobile2\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="df92850fe5c9e7c9d7bff0b540b654c32bfd95fe">
+        <dex dex="C:\apps\moodlemobile2\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_70a2aad739b6289f27bb80d5213d554f79ba7e73.jar" />
+    </item>
+    <item
+        jar="C:\Users\Miguel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\apps\moodlemobile2\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_e15a40ef93da52961178ce7f5012b48eb8e8252b.jar" />
+    </item>
+    <item
+        jar="C:\apps\moodlemobile2\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\apps\moodlemobile2\platforms\android\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_b0c0bb8ad24dfc0de18db85a4964cacecaf40f14.jar" />
+    </item>
+
+</items>

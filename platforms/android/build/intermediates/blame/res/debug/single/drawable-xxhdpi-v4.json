@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\apps\\moodlemobile2\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_next_item.png",
+        "source": "C:\\apps\\moodlemobile2\\platforms\\android\\res\\drawable-xxhdpi\\ic_action_next_item.png"
+    },
+    {
+        "merged": "C:\\apps\\moodlemobile2\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_previous_item.png",
+        "source": "C:\\apps\\moodlemobile2\\platforms\\android\\res\\drawable-xxhdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "C:\\apps\\moodlemobile2\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_remove.png",
+        "source": "C:\\apps\\moodlemobile2\\platforms\\android\\res\\drawable-xxhdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "C:\\apps\\moodlemobile2\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon.png",
+        "source": "C:\\apps\\moodlemobile2\\platforms\\android\\res\\drawable-xxhdpi\\icon.png"
+    }
+]

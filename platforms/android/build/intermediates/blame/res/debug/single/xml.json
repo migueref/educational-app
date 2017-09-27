@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\apps\\moodlemobile2\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "C:\\apps\\moodlemobile2\\platforms\\android\\res\\xml\\config.xml"
+    },
+    {
+        "merged": "C:\\apps\\moodlemobile2\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\apps\\moodlemobile2\\platforms\\android\\res\\xml\\provider_paths.xml"
+    }
+]

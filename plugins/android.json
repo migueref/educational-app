@@ -1,0 +1,52 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-zip": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        }
+    }
+}
